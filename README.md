@@ -1,5 +1,5 @@
 # checkTCNO
-Javascript Geçerli T.C. Kimlik NO Kontrolü
+Javascript ile Geçerli T.C. Kimlik Numarası Kontrolü
 
 Example :<br/>
 checkTc(12345678901)<br/>
