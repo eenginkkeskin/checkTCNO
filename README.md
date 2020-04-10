@@ -1,6 +1,6 @@
 # checkTCNO
 Javascript Geçerli T.C. Kimlik NO Kontrolü
 
-Example :
-checkTc(25489875236)
-return true : false
+Example :<br/>
+checkTc(12345678901)<br/>
+return true : false<br/>
